@@ -1,0 +1,302 @@
+[
+  {
+    "id": "MLA863267784",
+    "title": "Monitor Dell P2018h Led 20  Negro 100v/240v",
+    "category_id": "MLA14407",
+    "category_name": "MLA-COMPUTER_MONITORS"
+  },
+  {
+    "id": "MLA843116615",
+    "title": "Monitor Dell P2419h Led 24  Negro 100v/240v",
+    "category_id": "MLA14407",
+    "category_name": "MLA-COMPUTER_MONITORS"
+  },
+  {
+    "id": "MLA906171057",
+    "title": "Router Linksys Ea-series Ea6100  Negro 100v/240v",
+    "category_id": "MLA430901",
+    "category_name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS"
+  },
+  {
+    "id": "MLA884736096",
+    "title": "Router Cisco Rv Series Rv340  Negro 100v/240v",
+    "category_id": "MLA430901",
+    "category_name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS"
+  },
+  {
+    "id": "MLA884735636",
+    "title": "Router Cisco Rv Series Rv345  Negro 100v/240v",
+    "category_id": "MLA430901",
+    "category_name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS"
+  },
+  {
+    "id": "MLA898898561",
+    "title": "Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh  Blanco 100v/240v",
+    "category_id": "MLA430901",
+    "category_name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS"
+  },
+  {
+    "id": "MLA870594510",
+    "title": "Access Point, Router Linksys Max-stream Ea7300  Negro 100v/240v",
+    "category_id": "MLA430901",
+    "category_name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS"
+  },
+  {
+    "id": "MLA884735971",
+    "title": "Impresora Multifunción Lexmark Mb2442adwe Con Wifi 220v Gris Y Blanca",
+    "category_id": "MLA1676",
+    "category_name": "MLA-PRINTERS"
+  },
+  {
+    "id": "MLA876794922",
+    "title": "Impresora Multifunción Lexmark Mb2546adwe Con Wifi 220v Gris Y Blanca",
+    "category_id": "MLA1676",
+    "category_name": "MLA-PRINTERS"
+  },
+  {
+    "id": "MLA907606600",
+    "title": "Impresora Lexmark B2338dw Con Wifi 220v Gris Y Blanca",
+    "category_id": "MLA1676",
+    "category_name": "MLA-PRINTERS"
+  },
+  {
+    "id": "MLA838441150",
+    "title": "Servidor Poweredge Dell T40 Xeon E3-2224 16gb 1tb Hd Gtia",
+    "category_id": "MLA1649",
+    "category_name": "MLA-DESKTOP_COMPUTERS"
+  },
+  {
+    "id": "MLA906671838",
+    "title": "Notebook Dell Inspiron Amd Ryzen 5 16gb 256ssd + 1tb Win10",
+    "category_id": "MLA1652",
+    "category_name": "MLA-NOTEBOOKS"
+  },
+  {
+    "id": "MLA665986505",
+    "title": "Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130",
+    "category_id": "MLA1649",
+    "category_name": "MLA-DESKTOP_COMPUTERS"
+  },
+  {
+    "id": "MLA604049998",
+    "title": "Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650",
+    "category_id": "MLA1720",
+    "category_name": "MLA-STABILIZERS_AND_UPS"
+  },
+  {
+    "id": "MLA679000346",
+    "title": "Ups Apc 800va 4t Estabilizador Y Protector De Tension Gtia Oficial 2 Años Simil Ideal Para Uso Gamer",
+    "category_id": "MLA1720",
+    "category_name": "MLA-STABILIZERS_AND_UPS"
+  },
+  {
+    "id": "MLA740540307",
+    "title": "Servidor Poweredge Dell T40 Xeon E3-1225 8gb 1tb Hd Free Dos",
+    "category_id": "MLA1649",
+    "category_name": "MLA-DESKTOP_COMPUTERS"
+  },
+  {
+    "id": "MLA837839027",
+    "title": "Notebook Laptop Dell I7 10g 32g 256ssd + 480ssd W10 Gforce",
+    "category_id": "MLA1652",
+    "category_name": "MLA-NOTEBOOKS"
+  },
+  {
+    "id": "MLA685442693",
+    "title": "Switch Cisco 24 Puertos Gigabit Rack 10/100/1000",
+    "category_id": "MLA1708",
+    "category_name": "MLA-NETWORK_SWITCHES"
+  },
+  {
+    "id": "MLA619999038",
+    "title": "Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia",
+    "category_id": "MLA1720",
+    "category_name": "MLA-STABILIZERS_AND_UPS"
+  },
+  {
+    "id": "MLA896718634",
+    "title": "Servidor Poweredge Dell T40 Xeon E3-2224 16gb 2tb Hd Gtia",
+    "category_id": "MLA1649",
+    "category_name": "MLA-DESKTOP_COMPUTERS"
+  },
+  {
+    "id": "MLA696010903",
+    "title": "Ups Apc Src2ki-ar 2000va Online Tower Src2ki",
+    "category_id": "MLA1720",
+    "category_name": "MLA-STABILIZERS_AND_UPS"
+  },
+  {
+    "id": "MLA614718493",
+    "title": "Ups Apc Bx1100ci Para Tv, Play, Audio, 6 Tomas Estabilizador",
+    "category_id": "MLA1720",
+    "category_name": "MLA-STABILIZERS_AND_UPS"
+  },
+  {
+    "id": "MLA862050665",
+    "title": "Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas",
+    "category_id": "MLA1649",
+    "category_name": "MLA-DESKTOP_COMPUTERS"
+  },
+  {
+    "id": "MLA614270244",
+    "title": "Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años",
+    "category_id": "MLA1720",
+    "category_name": "MLA-STABILIZERS_AND_UPS"
+  },
+  {
+    "id": "MLA814217735",
+    "title": "Servidor Dell T140 Xeon E3-2124 32gb 4tb Reemplazo T130",
+    "category_id": "MLA1649",
+    "category_name": "MLA-DESKTOP_COMPUTERS"
+  },
+  {
+    "id": "MLA881142835",
+    "title": "Notebook Laptop Dell Vostro I5 16gb 1tb + 480ssd 14 Win",
+    "category_id": "MLA1652",
+    "category_name": "MLA-NOTEBOOKS"
+  },
+  {
+    "id": "MLA673321805",
+    "title": "Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años",
+    "category_id": "MLA1720",
+    "category_name": "MLA-STABILIZERS_AND_UPS"
+  },
+  {
+    "id": "MLA673439018",
+    "title": "Notebook Laptop Dell Inspiron I3 8gb 1tb 15,6 Fhd Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B",
+    "category_id": "MLA1652",
+    "category_name": "MLA-NOTEBOOKS"
+  },
+  {
+    "id": "MLA910713865",
+    "title": "Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial",
+    "category_id": "MLA1649",
+    "category_name": "MLA-DESKTOP_COMPUTERS"
+  },
+  {
+    "id": "MLA678026676",
+    "title": "Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B",
+    "category_id": "MLA1708",
+    "category_name": "MLA-NETWORK_SWITCHES"
+  },
+  {
+    "id": "MLA696009826",
+    "title": "Ups Apc 1000va Online Tower Gtia 2 Años",
+    "category_id": "MLA1720",
+    "category_name": "MLA-STABILIZERS_AND_UPS"
+  },
+  {
+    "id": "MLA910712440",
+    "title": "Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial",
+    "category_id": "MLA1649",
+    "category_name": "MLA-DESKTOP_COMPUTERS"
+  },
+  {
+    "id": "MLA604317175",
+    "title": "Ups Apc 800va 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial De 2 Años Para Gamer Bx800 Para Tv, Play",
+    "category_id": "MLA1720",
+    "category_name": "MLA-STABILIZERS_AND_UPS"
+  },
+  {
+    "id": "MLA800415301",
+    "title": "Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130",
+    "category_id": "MLA1649",
+    "category_name": "MLA-DESKTOP_COMPUTERS"
+  },
+  {
+    "id": "MLA675284743",
+    "title": "Router Cisco Rv160-k9-ar Cisco Rv160 Vpn Smb",
+    "category_id": "MLA430901",
+    "category_name": "MLA-ROUTERS_AND_WIRELESS_SYSTEMS"
+  },
+  {
+    "id": "MLA685442543",
+    "title": "Switch Cisco Sg110-24 24 Puertos Gigabit Rack (ex. Sg100-24)",
+    "category_id": "MLA1708",
+    "category_name": "MLA-NETWORK_SWITCHES"
+  },
+  {
+    "id": "MLA701423768",
+    "title": "Switch Cisco 8 Puertos Port 10/100/1000 Giga Sg100 Oferta Para Hogar Y Empresa - Garantia Oficial - Factura A Y B",
+    "category_id": "MLA1708",
+    "category_name": "MLA-NETWORK_SWITCHES"
+  },
+  {
+    "id": "MLA663213659",
+    "title": "Notebook Laptop Dell Vostro I5 8gb 1tb 14 Win 10pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A / B",
+    "category_id": "MLA1652",
+    "category_name": "MLA-NOTEBOOKS"
+  },
+  {
+    "id": "MLA614270271",
+    "title": "Estabilizador Ups Apc 900va Con Garantia Oficial Para Tv, Play, Equipos De Audio Y Pc Con Ahorro De Energia",
+    "category_id": "MLA1720",
+    "category_name": "MLA-STABILIZERS_AND_UPS"
+  },
+  {
+    "id": "MLA835811366",
+    "title": "Switch Cisco Sg220-26 Gigabit Administrable + 2 Sfp",
+    "category_id": "MLA1708",
+    "category_name": "MLA-NETWORK_SWITCHES"
+  },
+  {
+    "id": "MLA835812799",
+    "title": "Switch Cisco Sg220-26p Smart Plus 26 Puertos Giga Poe Admin",
+    "category_id": "MLA1708",
+    "category_name": "MLA-NETWORK_SWITCHES"
+  },
+  {
+    "id": "MLA714624323",
+    "title": "Switch 24p Cisco Sg350-28 10/100/1000 Sg350-28-k9",
+    "category_id": "MLA1708",
+    "category_name": "MLA-NETWORK_SWITCHES"
+  },
+  {
+    "id": "MLA835614791",
+    "title": "Sf250-48-k9-ar Switch 48p Cisco Sf250-48 10/100 Rack",
+    "category_id": "MLA1708",
+    "category_name": "MLA-NETWORK_SWITCHES"
+  },
+  {
+    "id": "MLA609714711",
+    "title": "Ups Apc Back-ups Pro 550va 230 Estabilizador Y Protector De Tensión Con Ahorro De Energia Gtia Oficial Br550",
+    "category_id": "MLA1720",
+    "category_name": "MLA-STABILIZERS_AND_UPS"
+  },
+  {
+    "id": "MLA609550688",
+    "title": "Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años",
+    "category_id": "MLA1720",
+    "category_name": "MLA-STABILIZERS_AND_UPS"
+  },
+  {
+    "id": "MLA609115444",
+    "title": "Ups Apc De Alto Rendimiento 1200va Estabilizador Y Protector De Tension Garantía Oficial De 2 Años Ups",
+    "category_id": "MLA1720",
+    "category_name": "MLA-STABILIZERS_AND_UPS"
+  },
+  {
+    "id": "MLA791968195",
+    "title": "Escaner Kodak S2040 Alta Velocidad 600dpi Duplex 5000 X Dia",
+    "category_id": "MLA72721",
+    "category_name": "MLA-SCANNERS"
+  },
+  {
+    "id": "MLA714578081",
+    "title": "Switch 24p Cisco Sg250-26 Giga 10/100/1000 Sg250-26-k9",
+    "category_id": "MLA1708",
+    "category_name": "MLA-NETWORK_SWITCHES"
+  },
+  {
+    "id": "MLA692519735",
+    "title": "Switch Cisco Sf110d-05 5 Puertos 10/100 Sf110 (ex Sf100d-05)",
+    "category_id": "MLA1708",
+    "category_name": "MLA-NETWORK_SWITCHES"
+  },
+  {
+    "id": "MLA835872727",
+    "title": "Switch Cisco Sf220-24p Adm 24 Puertos Poe + 2 Giga + 2 Sfp",
+    "category_id": "MLA1708",
+    "category_name": "MLA-NETWORK_SWITCHES"
+  }
+]
